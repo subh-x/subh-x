@@ -1,16 +1,15 @@
-## Hi there 👋
+# Web Development - Fundamentals (INFT-1206-01)
+Welcome to the repository  for **202541.12921-INFT-1206-01 - Web Development - Fundamentals!** This repository, created by **Subham Thakur** and This repository contains the assignments related to the course.
 
-<!--
-**subh-x/subh-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Overview
+This repository serves as a collection of my work throughout the Web Development - Fundamentals course. Here, you will find code and resources that demonstrate my learning and progress in web development Assignments.
 
-Here are some ideas to get you started:
+# Assignments
+Assignment 1 - HTML Overview
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contribution
+This repository is a reflection of my learning journey. While it's primarily for my use, I appreciate any feedback or suggestions to improve my work.
+If you have any questions or suggestions, feel free to reach out via GitHub.
+
+-------------------------------------------------------------------------------
+Thank you for visiting my repository! I hope you find the content informative and useful.
