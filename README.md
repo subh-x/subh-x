@@ -7,6 +7,7 @@ This repository serves as a collection of my work throughout the Web Development
 # Assignments
 Assignment 1 - HTML Overview
 Assignment 2 - HTML Multimedia and Tables
+Assignment 3 - CSS
 
 # Contribution
 This repository is a reflection of my learning journey. While it's primarily for my use, I appreciate any feedback or suggestions to improve my work.
