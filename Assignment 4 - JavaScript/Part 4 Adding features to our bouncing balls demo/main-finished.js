@@ -1,4 +1,10 @@
-// set up canvas
+/**
+	Name: Subham Thakur
+	File: main-finished.js
+	Date: 31 March 2025
+By adding an EvilCircle that the user controls to "eat" balls and lower the number shown on a score tracker, you can improve the bouncing balls demo. Create a Shape class that Ball and EvilCircle both inherit from in order to refactor the code. The Ball class now has a exists property to monitor active balls while maintaining its previous characteristics. Using WASD keys, the EvilCircle moves, checks borders, and eliminates balls when they collide. The number of balls left is continually updated in the score counter. This keeps games entertaining and interesting while enhancing object-oriented organization and interactivity.
+**/
+  // set up canvas
 
 const canvas = document.querySelector("canvas");
 const ctx = canvas.getContext("2d");
