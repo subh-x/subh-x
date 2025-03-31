@@ -1,4 +1,10 @@
-// functionality for showing/hiding the comments section
+/**
+	Name: Subham Thakur
+	File: index.html
+	Date: 31 March 2025
+Address problems with color contrast, semantic HTML, photos, music, forms, interactive components, and tables to make a fictitious nature site more accessible. Test and modify the background and text colors to improve readability. For improved screen reader navigation, update the HTML structure by using a semantic <nav> element for <div class="nav">. To accommodate deaf people and give a fallback for outdated browsers, make sure pictures include alt attributes and provide transcripts for the <audio> element. By appropriately linking <label> components with inputs and providing screen reader-only labels, you may increase form accessibility. Make sure users can concentrate and use the keyboard to trigger the show/hide comments feature. Include a summary for clarity and header associations to increase table accessibility. As a result, the website is completely accessible and inclusive to all users.
+**/
+  // functionality for showing/hiding the comments section
 
 const showHideBtn = document.querySelector('.show-hide');
 const commentWrapper = document.querySelector('.comment-wrapper');
