@@ -1,3 +1,9 @@
+/**
+	Name: Subham Thakur
+	File: main.js
+	Date: 31 March 2025
+When the user hits a button, this JavaScript code launches a Silly narrative Generator that produces a funny, random narrative. It replaces narrative template placeholders with randomly chosen items from specified arrays. In order to change "Bob" to a personalized name, users can select UK units for temperature and weight conversions. The result() function manages narrative creation, text substitutions, and dynamic webpage changes, whereas the randomValueFromArray() function selects random values. The function is triggered by an event listener on the button, which, when clicked, displays the tale.
+**/
 const customName = document.getElementById('customname');
 const randomize = document.querySelector('.randomize');
 const story = document.querySelector('.story');
